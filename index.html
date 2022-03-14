@@ -54,7 +54,7 @@
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-white u-border-hover-palette-3-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-3-base u-text-body-alt-color u-text-hover-palette-3-base" href="Mohammad-Fathul-Ibad.html#carousel_f536" data-page-id="1464870" style="padding: 10px 0px;">Skills</a>
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-white u-border-hover-palette-3-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-3-base u-text-body-alt-color u-text-hover-palette-3-base" href="Mohammad-Fathul-Ibad.html#carousel_1a4b" data-page-id="1464870" style="padding: 10px 0px;">Lesson Learn</a>
 </li><li class="u-nav-item"><a class="u-border-2 u-border-active-white u-border-hover-palette-3-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-3-base u-text-body-alt-color u-text-hover-palette-3-base" href="Mohammad-Fathul-Ibad.html#sec-2c81" data-page-id="1464870" style="padding: 10px 0px;">Tentang Saya</a>
-</li><li class="u-nav-item"><a class="u-border-2 u-border-active-white u-border-hover-palette-3-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-3-base u-text-body-alt-color u-text-hover-palette-3-base" href="Mohammad-Fathul-Ibad.html#sec-ddad" data-page-id="1464870" style="padding: 10px 0px;">Kontak</a>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-white u-border-hover-palette-3-base u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-palette-3-base u-text-body-alt-color u-text-hover-palette-3-base" href="Mohammad-Fathul-Ibad.html#sec-ddad" data-page-id="1464870" style="padding: 10px 0px;">Berita Terkini</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
@@ -67,7 +67,7 @@
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Mohammad-Fathul-Ibad.html#carousel_f536" data-page-id="1464870" style="padding: 10px 0px;">Skills</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Mohammad-Fathul-Ibad.html#carousel_1a4b" data-page-id="1464870" style="padding: 10px 0px;">Lesson Learn</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Mohammad-Fathul-Ibad.html#sec-2c81" data-page-id="1464870" style="padding: 10px 0px;">Tentang Saya</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Mohammad-Fathul-Ibad.html#sec-ddad" data-page-id="1464870" style="padding: 10px 0px;">Kontak</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Mohammad-Fathul-Ibad.html#sec-ddad" data-page-id="1464870" style="padding: 10px 0px;">Berita Terkini</a>
 </li></ul>
               </div>
             </div>
@@ -283,6 +283,60 @@ yang tidak suka menunda-nunda.</p>
         </div>
       </div>
     </section>
+    
+    <section class="u-clearfix u-palette-3-dark-3 u-section-7" id="sec-1604">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <br><br><br><br>
+      <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+      <style>h1 {text-align: center;}
+        table {align: center;}
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+          }
+          
+          td, th {
+            border: 3px solid #f1c50e;
+            text-align: left;
+            padding: 8px;
+          }
+          tr:nth-child(odd) {
+            background-color: #333333;
+          }
+          tr:nth-child(even) {
+            background-color: #333333;
+          }
+          
+      </style>
+      
+      <h1>Artikel republika.co.id Terkini</h1>
+      <div id="publish_json"></div>
+        <script type="text/javascript">
+          $(function(){
+              //mengambil data dari file json
+              $.get('publish.json',function(obj){
+                  var str = "<table border=1>";
+                  str +="<tr><td>No</td><td class='tables'>Judul Artikel</td><td class='tables'>Kategori</td><td class='tables'>Waktu Publish</td><td class='tables'>Waktu Scrapping</td></tr>";
+                  $.each(obj,function(n,data){
+                      str +="<tr><td>" + (n+1) + "</td>";
+                      str +="<td>" + data.judul + "</td>";
+                      str +="<td class='tables'>" + data.kategori + "</td>";
+                      str +="<td class='tables'>" + data.waktu_publish + "</td>";
+                      str +="<td class='tables'>" + data.waktu_scraping + "</td></tr>";
+                  });
+                  str +="</table>";
+                  $('#publish_json').html(str);
+              });
+          });
+      </script>
+      
+      <br>
+      <br>
+      </div>    
+    </section>
+
+
     <section class="u-align-center u-clearfix u-grey-80 u-section-8" id="sec-ddad">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">

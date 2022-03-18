@@ -1,0 +1,702 @@
+[
+      {
+            "Ranking": "1",
+            "Judul": "Heat Waves",
+            "Penyanyi": "Glass Animals",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2020/07/glass-animals-rtd-heat-waves-o3i-180x180.jpg"
+      },
+      {
+            "Ranking": "2",
+            "Judul": "We Don't Talk About Bruno",
+            "Penyanyi": "Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/12/carolina-gaitan-000-we-dont-talk-about-bruno-d0v-180x180.jpg"
+      },
+      {
+            "Ranking": "3",
+            "Judul": "Super Gremlin",
+            "Penyanyi": "Kodak Black",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2016/06/kodak-black-3si-180x180.jpg"
+      },
+      {
+            "Ranking": "4",
+            "Judul": "abcdefu",
+            "Penyanyi": "GAYLE",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/11/gayle-000-abcdefu-xl2-180x180.jpg"
+      },
+      {
+            "Ranking": "5",
+            "Judul": "Stay",
+            "Penyanyi": "The Kid LAROI & Justin Bieber",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/07/the-kid-laroi-qev-stay-ens-180x180.jpg"
+      },
+      {
+            "Ranking": "6",
+            "Judul": "Easy On Me",
+            "Penyanyi": "Adele",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/10/adele-000-easy-on-me-zy9-180x180.jpg"
+      },
+      {
+            "Ranking": "7",
+            "Judul": "Ghost",
+            "Penyanyi": "Justin Bieber",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2009/07/justin-bieber-f8k-180x180.jpg"
+      },
+      {
+            "Ranking": "8",
+            "Judul": "Bad Habits",
+            "Penyanyi": "Ed Sheeran",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/07/ed-sheeran-w3r-bad-habits-fce-180x180.jpg"
+      },
+      {
+            "Ranking": "9",
+            "Judul": "Shivers",
+            "Penyanyi": "Ed Sheeran",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/09/ed-sheeran-w3r-shivers-x3e-180x180.jpg"
+      },
+      {
+            "Ranking": "10",
+            "Judul": "Thats What I Want",
+            "Penyanyi": "Lil Nas X",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2019/01/lil-nas-x-qv4-180x180.jpg"
+      },
+      {
+            "Ranking": "11",
+            "Judul": "Cold Heart (PNAU Remix)",
+            "Penyanyi": "Elton John & Dua Lipa",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/08/elton-john-m6x-cold-heart-pnau-remix-fch-180x180.jpg"
+      },
+      {
+            "Ranking": "12",
+            "Judul": "Enemy",
+            "Penyanyi": "Imagine Dragons X JID",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/11/imagine-dragons-ud7-enemy-e9r-180x180.jpg"
+      },
+      {
+            "Ranking": "13",
+            "Judul": "Need To Know",
+            "Penyanyi": "Doja Cat",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/06/doja-cat-lm6-need-to-know-awe-180x180.jpg"
+      },
+      {
+            "Ranking": "14",
+            "Judul": "Big Energy",
+            "Penyanyi": "Latto",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/10/latto-000-big-energy-89t-180x180.jpg"
+      },
+      {
+            "Ranking": "15",
+            "Judul": "Woman",
+            "Penyanyi": "Doja Cat",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2018/04/doja-cat-lm6-180x180.jpg"
+      },
+      {
+            "Ranking": "16",
+            "Judul": "Levitating",
+            "Penyanyi": "Dua Lipa",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2020/08/dua-lipa-eqf-levitating-wms-180x180.jpg"
+      },
+      {
+            "Ranking": "17",
+            "Judul": "Save Your Tears",
+            "Penyanyi": "The Weeknd & Ariana Grande",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2011/11/the-weeknd-xmx-180x180.jpg"
+      },
+      {
+            "Ranking": "18",
+            "Judul": "Pushin P",
+            "Penyanyi": "Gunna & Future Featuring Young Thug",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2016/09/gunna-czg-180x180.jpg"
+      },
+      {
+            "Ranking": "19",
+            "Judul": "Industry Baby",
+            "Penyanyi": "Lil Nas X & Jack Harlow",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/07/lil-nas-x-qv4-industry-baby-td4-180x180.jpg"
+      },
+      {
+            "Ranking": "20",
+            "Judul": "Surface Pressure",
+            "Penyanyi": "Jessica Darrow",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/jessica-darrow-000-surface-pressure-r8e-180x180.jpg"
+      },
+      {
+            "Ranking": "21",
+            "Judul": "One Right Now",
+            "Penyanyi": "Post Malone & The Weeknd",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/11/post-malone-79v-one-right-now-vab-180x180.jpg"
+      },
+      {
+            "Ranking": "22",
+            "Judul": "I Hate U",
+            "Penyanyi": "SZA",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/12/sza-mhq-i-hate-u-493-180x180.jpg"
+      },
+      {
+            "Ranking": "23",
+            "Judul": "NEW",
+            "Penyanyi": "Bam Bam",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/03/camila-cabello-wsw-bam-bam-iyk-180x180.jpg"
+      },
+      {
+            "Ranking": "24",
+            "Judul": "Hrs And Hrs",
+            "Penyanyi": "Muni Long",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/muni-long-e6t-180x180.jpg"
+      },
+      {
+            "Ranking": "25",
+            "Judul": "'Til You Can't",
+            "Penyanyi": "Cody Johnson",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/06/cody-johnson-jve-til-you-cant-jij-180x180.jpg"
+      },
+      {
+            "Ranking": "26",
+            "Judul": "MAMIII",
+            "Penyanyi": "Becky G X Karol G",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/becky-g-05f-mamiii-95v-180x180.jpg"
+      },
+      {
+            "Ranking": "27",
+            "Judul": "Light Switch",
+            "Penyanyi": "Charlie Puth",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/charlie-puth-fjx-light-switch-gcy-180x180.jpg"
+      },
+      {
+            "Ranking": "28",
+            "Judul": "Buy Dirt",
+            "Penyanyi": "Jordan Davis Featuring Luke Bryan",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/06/jordan-davis-8bp-buy-dirt-jo1-180x180.jpg"
+      },
+      {
+            "Ranking": "29",
+            "Judul": "You Right",
+            "Penyanyi": "Doja Cat & The Weeknd",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2018/04/doja-cat-lm6-180x180.jpg"
+      },
+      {
+            "Ranking": "30",
+            "Judul": "Fancy Like",
+            "Penyanyi": "Walker Hayes",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/06/walker-hayes-kxn-fancy-like-9nl-180x180.jpg"
+      },
+      {
+            "Ranking": "31",
+            "Judul": "Good 4 U",
+            "Penyanyi": "Olivia Rodrigo",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/05/olivia-rodrigo-3wl-good-4-u-7ek-180x180.jpg"
+      },
+      {
+            "Ranking": "32",
+            "Judul": "Love Nwantiti (Ah Ah Ah)",
+            "Penyanyi": "CKay",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/03/ckay-eoq-180x180.jpg"
+      },
+      {
+            "Ranking": "33",
+            "Judul": "Sand In My Boots",
+            "Penyanyi": "Morgan Wallen",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/01/morgan-wallen-nlu-sand-in-my-boots-kfc-180x180.jpg"
+      },
+      {
+            "Ranking": "34",
+            "Judul": "Ahhh Ha",
+            "Penyanyi": "Lil Durk",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2013/06/lil-durk-hvd-180x180.jpg"
+      },
+      {
+            "Ranking": "35",
+            "Judul": "Fingers Crossed",
+            "Penyanyi": "Lauren Spencer-Smith",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/lauren-spencer-smith-j6z-fingers-crossed-do1-180x180.jpg"
+      },
+      {
+            "Ranking": "36",
+            "Judul": "The Family Madrigal",
+            "Penyanyi": "Stephanie Beatriz, Olga Merediz & Encanto Cast",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/12/stephanie-beatriz-eof-the-family-madrigal-mn6-180x180.jpg"
+      },
+      {
+            "Ranking": "37",
+            "Judul": "Doin' This",
+            "Penyanyi": "Luke Combs",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/11/luke-combs-67b-doin-this-w5t-180x180.jpg"
+      },
+      {
+            "Ranking": "38",
+            "Judul": "Knife Talk",
+            "Penyanyi": "Drake Featuring 21 Savage & Project Pat",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2009/04/drake-p3d-180x180.jpg"
+      },
+      {
+            "Ranking": "39",
+            "Judul": "Essence",
+            "Penyanyi": "Wizkid Featuring Justin Bieber & Tems",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/06/wizkid-qj3-essence-rju-180x180.jpg"
+      },
+      {
+            "Ranking": "40",
+            "Judul": "Beers On Me",
+            "Penyanyi": "Dierks Bentley, Breland & HARDY",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/08/dierks-bentley-k1q-beers-on-me-r2p-180x180.jpg"
+      },
+      {
+            "Ranking": "41",
+            "Judul": "To Be Loved By You",
+            "Penyanyi": "Parker McCollum",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/02/parker-mccollum-2ed-to-be-loved-by-you-ah6-180x180.jpg"
+      },
+      {
+            "Ranking": "42",
+            "Judul": "Boyfriend",
+            "Penyanyi": "Dove Cameron",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/dove-cameron-s11-boyfriend-naj-180x180.jpg"
+      },
+      {
+            "Ranking": "43",
+            "Judul": "AA",
+            "Penyanyi": "Walker Hayes",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2010/09/walker-hayes-kxn-180x180.jpg"
+      },
+      {
+            "Ranking": "44",
+            "Judul": "You Should Probably Leave",
+            "Penyanyi": "Chris Stapleton",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2013/07/chris-stapleton-kx1-180x180.jpg"
+      },
+      {
+            "Ranking": "45",
+            "Judul": "Never Say Never",
+            "Penyanyi": "Cole Swindell / Lainey Wilson",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/11/cole-swindell-4bh-never-say-never-7g7-180x180.jpg"
+      },
+      {
+            "Ranking": "46",
+            "Judul": "One Mississippi",
+            "Penyanyi": "Kane Brown",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/08/kane-brown-wbb-one-mississippi-ses-180x180.jpg"
+      },
+      {
+            "Ranking": "47",
+            "Judul": "RE- ENTRY",
+            "Penyanyi": "Drunk (And I Don't Wanna Go Home)",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/03/elle-king-1lh-drunk-and-i-dont-wanna-go-home-awl-180x180.jpg"
+      },
+      {
+            "Ranking": "48",
+            "Judul": "Numb Little Bug",
+            "Penyanyi": "Em Beihold",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/em-beihold-000-numb-little-bug-6dd-180x180.jpg"
+      },
+      {
+            "Ranking": "49",
+            "Judul": "She's All I Wanna Be",
+            "Penyanyi": "Tate McRae",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/tate-mcrae-yme-shes-all-i-wanna-be-r92-180x180.jpg"
+      },
+      {
+            "Ranking": "50",
+            "Judul": "Meet Me At Our Spot",
+            "Penyanyi": "THE ANXIETY: WILLOW & Tyler Cole",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/06/the-anxiety-willow-and-tyler-cole-sf1-180x180.jpg"
+      },
+      {
+            "Ranking": "51",
+            "Judul": "What Else Can I Do?",
+            "Penyanyi": "Diane Guerrero & Stephanie Beatriz",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/diane-guerrero-000-what-else-can-i-do-kuc-180x180.jpg"
+      },
+      {
+            "Ranking": "52",
+            "Judul": "Slow Down Summer",
+            "Penyanyi": "Thomas Rhett",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/11/thomas-rhett-gl5-slow-down-summer-p5k-180x180.jpg"
+      },
+      {
+            "Ranking": "53",
+            "Judul": "I'm Tired",
+            "Penyanyi": "Labrinth & Zendaya",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/03/labrinth-o8m-im-tired-w0v-180x180.jpg"
+      },
+      {
+            "Ranking": "54",
+            "Judul": "Do We Have A Problem?",
+            "Penyanyi": "Nicki Minaj X Lil Baby",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/nicki-minaj-hy6-do-we-have-a-problem-jcb-180x180.jpg"
+      },
+      {
+            "Ranking": "55",
+            "Judul": "Nail Tech",
+            "Penyanyi": "Jack Harlow",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/03/jack-harlow-7kn-nail-tech-z04-180x180.jpg"
+      },
+      {
+            "Ranking": "56",
+            "Judul": "Sacrifice",
+            "Penyanyi": "The Weeknd",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2010/11/weekend-rt8-180x180.jpg"
+      },
+      {
+            "Ranking": "57",
+            "Judul": "Peru",
+            "Penyanyi": "Fireboy DML & Ed Sheeran",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/09/fireboy-dml-jmc-peru-0qj-180x180.jpg"
+      },
+      {
+            "Ranking": "58",
+            "Judul": "Dos Oruguitas",
+            "Penyanyi": "Sebastian Yatra",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2015/10/sebastian-yatra-q66-180x180.jpg"
+      },
+      {
+            "Ranking": "59",
+            "Judul": "23",
+            "Penyanyi": "Sam Hunt",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/09/sam-hunt-24e-23-gbw-180x180.jpg"
+      },
+      {
+            "Ranking": "60",
+            "Judul": "NEW",
+            "Penyanyi": "Handsomer",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/russ-8dy-handsomer-n5r-180x180.jpg"
+      },
+      {
+            "Ranking": "61",
+            "Judul": "Don't Play That",
+            "Penyanyi": "King Von & 21 Savage",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/king-von-sxy-dont-play-that-1kg-180x180.jpg"
+      },
+      {
+            "Ranking": "62",
+            "Judul": "Broadway Girls",
+            "Penyanyi": "Lil Durk Featuring Morgan Wallen",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/lil-durk-hvd-broadway-girls-i15-180x180.jpg"
+      },
+      {
+            "Ranking": "63",
+            "Judul": "Half Of My Hometown",
+            "Penyanyi": "Kelsea Ballerini Featuring Kenny Chesney",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/05/kelsea-ballerini-d28-half-of-my-hometown-c6p-180x180.jpg"
+      },
+      {
+            "Ranking": "64",
+            "Judul": "Smokin Out The Window",
+            "Penyanyi": "Silk Sonic (Bruno Mars & Anderson .Paak)",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/03/silk-sonic-bruno-mars-and-anderson-paak-qd5-180x180.jpg"
+      },
+      {
+            "Ranking": "65",
+            "Judul": "Circles Around This Town",
+            "Penyanyi": "Maren Morris",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/maren-morris-dkk-circles-around-this-town-fwu-180x180.jpg"
+      },
+      {
+            "Ranking": "66",
+            "Judul": "Me Or Sum",
+            "Penyanyi": "Nardo Wick, Lil Baby & Future",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/12/nardo-wick-000-me-or-sum-d8j-180x180.jpg"
+      },
+      {
+            "Ranking": "67",
+            "Judul": "Freaky Deaky",
+            "Penyanyi": "Tyga X Doja Cat",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/03/tyga-81k-freaky-deaky-58v-180x180.jpg"
+      },
+      {
+            "Ranking": "68",
+            "Judul": "Heart On Fire",
+            "Penyanyi": "Eric Church",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2006/02/eric-church-hb2-180x180.jpg"
+      },
+      {
+            "Ranking": "69",
+            "Judul": "Beautiful Lies",
+            "Penyanyi": "Yung Bleu & Kehlani",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2017/11/yung-bleu-i61-180x180.jpg"
+      },
+      {
+            "Ranking": "70",
+            "Judul": "Pressure",
+            "Penyanyi": "Ari Lennox",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/09/ari-lennox-gdc-pressure-lxb-180x180.jpg"
+      },
+      {
+            "Ranking": "71",
+            "Judul": "The Motto",
+            "Penyanyi": "Tiesto & Ava Max",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/11/tiesto-e64-the-motto-lwn-180x180.jpg"
+      },
+      {
+            "Ranking": "72",
+            "Judul": "NEW",
+            "Penyanyi": "Publicity Stunt",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/03/gucci-mane-lyh-publicity-stunt-o3u-180x180.jpg"
+      },
+      {
+            "Ranking": "73",
+            "Judul": "NEW",
+            "Penyanyi": "War",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2019/05/king-von-sxy-180x180.jpg"
+      },
+      {
+            "Ranking": "74",
+            "Judul": "If I Was A Cowboy",
+            "Penyanyi": "Miranda Lambert",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/10/miranda-lambert-sva-if-i-was-a-cowboy-j4b-180x180.jpg"
+      },
+      {
+            "Ranking": "75",
+            "Judul": "P Power",
+            "Penyanyi": "Gunna Featuring Drake",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2009/04/drake-p3d-180x180.jpg"
+      },
+      {
+            "Ranking": "76",
+            "Judul": "High",
+            "Penyanyi": "The Chainsmokers",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/the-chainsmokers-iis-high-2qr-180x180.jpg"
+      },
+      {
+            "Ranking": "77",
+            "Judul": "Rocking A Cardigan In Atlanta",
+            "Penyanyi": "Lil Shordie Scott",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/03/lil-shordie-scott-000-rocking-a-cardigan-in-atlanta-j0t-180x180.jpg"
+      },
+      {
+            "Ranking": "78",
+            "Judul": "Never Wanted To Be That Girl",
+            "Penyanyi": "Carly Pearce & Ashley McBryde",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/09/carly-pearce-al1-never-wanted-to-be-that-girl-t40-180x180.jpg"
+      },
+      {
+            "Ranking": "79",
+            "Judul": "Rumors",
+            "Penyanyi": "Gucci Mane Featuring Lil Durk",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/gucci-mane-lyh-rumors-a2d-180x180.jpg"
+      },
+      {
+            "Ranking": "80",
+            "Judul": "Banking On Me",
+            "Penyanyi": "Gunna",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/gunna-czg-banking-on-me-06w-180x180.jpg"
+      },
+      {
+            "Ranking": "81",
+            "Judul": "I Hate YoungBoy",
+            "Penyanyi": "YoungBoy Never Broke Again",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/03/youngboy-never-broke-again-3oj-i-hate-youngboy-fe2-180x180.jpg"
+      },
+      {
+            "Ranking": "82",
+            "Judul": "NEW",
+            "Penyanyi": "Ay!",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/03/machine-gun-kelly-3ma-ay-5gh-180x180.jpg"
+      },
+      {
+            "Ranking": "83",
+            "Judul": "Waiting On A Miracle",
+            "Penyanyi": "Stephanie Beatriz",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/stephanie-beatriz-eof-waiting-on-a-miracle-j22-180x180.jpg"
+      },
+      {
+            "Ranking": "84",
+            "Judul": "Oh My God",
+            "Penyanyi": "Adele",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2008/02/adele-0zg-180x180.jpg"
+      },
+      {
+            "Ranking": "85",
+            "Judul": "I Love You So",
+            "Penyanyi": "The Walters",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/10/the-walters-rtt-180x180.jpg"
+      },
+      {
+            "Ranking": "86",
+            "Judul": "By Your Side",
+            "Penyanyi": "Rod Wave",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/12/rod-wave-qt2-by-your-side-r6x-180x180.jpg"
+      },
+      {
+            "Ranking": "87",
+            "Judul": "To The Moon!",
+            "Penyanyi": "JNR CHOI & Sam Tompkins",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/jnr-choi-kjj-to-the-moon-waw-180x180.jpg"
+      },
+      {
+            "Ranking": "88",
+            "Judul": "Flower Shops",
+            "Penyanyi": "ERNEST Featuring Morgan Wallen",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/ernest-000-flower-shops-yty-180x180.jpg"
+      },
+      {
+            "Ranking": "89",
+            "Judul": "NEW",
+            "Penyanyi": "Neighborhood Superstar",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/03/dababy-tkw-neighborhood-superstar-xj3-180x180.jpg"
+      },
+      {
+            "Ranking": "90",
+            "Judul": "City Of Gods",
+            "Penyanyi": "Fivio Foreign, Kanye West & Alicia Keys",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/fivio-foreign-000-city-of-gods-e10-180x180.jpg"
+      },
+      {
+            "Ranking": "91",
+            "Judul": "RE- ENTRY",
+            "Penyanyi": "Give Heaven Some Hell",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2020/08/hardy-jul-give-heaven-some-hell-6ap-180x180.jpg"
+      },
+      {
+            "Ranking": "92",
+            "Judul": "NEW",
+            "Penyanyi": "Facetime",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2019/05/king-von-sxy-180x180.jpg"
+      },
+      {
+            "Ranking": "93",
+            "Judul": "NEW",
+            "Penyanyi": "Straight To It",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2019/05/king-von-sxy-180x180.jpg"
+      },
+      {
+            "Ranking": "94",
+            "Judul": "Cigarettes",
+            "Penyanyi": "Juice WRLD",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/juice-wrld-6bj-cigarettes-x3m-180x180.jpg"
+      },
+      {
+            "Ranking": "95",
+            "Judul": "Do It To It",
+            "Penyanyi": "Acraze Featuring Cherish",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2021/09/acraze-000-do-it-to-it-l6f-180x180.jpg"
+      },
+      {
+            "Ranking": "96",
+            "Judul": "NEW",
+            "Penyanyi": "Evil Twins",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2019/05/king-von-sxy-180x180.jpg"
+      },
+      {
+            "Ranking": "97",
+            "Judul": "NEW",
+            "Penyanyi": "Trust Nothing",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2019/05/king-von-sxy-180x180.jpg"
+      },
+      {
+            "Ranking": "98",
+            "Judul": "Iffy",
+            "Penyanyi": "Chris Brown",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/chris-brown-xny-iffy-w6x-180x180.jpg"
+      },
+      {
+            "Ranking": "99",
+            "Judul": "Closer",
+            "Penyanyi": "Saweetie Featuring H.E.R.",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/02/saweetie-plv-closer-ncw-180x180.jpg"
+      },
+      {
+            "Ranking": "100",
+            "Judul": "When I'm Gone",
+            "Penyanyi": "Alesso / Katy Perry",
+            "waktu_scraping": "2022-03-18 pukul 17:27:45",
+            "Image": "https://charts-static.billboard.com/img/2022/01/alesso-wfb-when-im-gone-zh5-180x180.jpg"
+      }
+]

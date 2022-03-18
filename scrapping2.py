@@ -20,9 +20,12 @@ for song in driver.find_elements_by_class_name("o-chart-results-list-row"):
 
 
         billboard.append(
-            {"Ranking": song.text.split("\n")[0],
-            "Judul Lagu": song.text.split("\n")[1],
-            "Penyanyi": song.text.split("\n")[2],
+            {"current_rank": song.text.split("\n")[0],
+            "song_title": song.text.split("\n")[1],
+            "singer": song.text.split("\n")[2],
+            "last_week_rank": song.text.split("\n")[3],
+            "peak_rank": song.text.split("\n")[4],
+            "weeks_on_chart": song.text.split("\n")[5],
             "waktu_scraping": x.strftime("%Y-%m-%d pukul %H:%M:%S"),
             "Image": img.get_attribute("src")
             }
